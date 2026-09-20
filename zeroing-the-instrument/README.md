@@ -1,4 +1,4 @@
-# Zeroing the Instrument
+# Primer 01 — Zeroing the Instrument
 
 *A primer on null-control batteries for software-based measurement*
 
@@ -26,3 +26,13 @@ The PDF includes the complete Primer and Appendix A: Companion Casebook.
 The companion materials are optional. They contain synthetic example data,
 verification code, and instructions for reproducing the calculations.
 Python is not required to read the PDF.
+
+## Citation and archived editions
+
+Loh, C. S., & Sheng, Y. (2026). *Zeroing the instrument: A primer on null-control batteries for software-based measurement* (Praxichnology Primer 01). Zenodo. https://doi.org/10.5281/zenodo.20371003
+
+[Zenodo record — latest published edition](https://doi.org/10.5281/zenodo.20371003)
+
+**Deposit status:** The September 19, 2026 edition is available above. Its Zenodo deposit is pending; until it is published, the DOI opens the earlier MEI-focused Primer. The same concept DOI will lead to the new edition after publication.
+
+Primer 01 is the title's permanent series number. The edition date identifies the revision.
