@@ -9,7 +9,7 @@ included where appropriate.
 
 ## Available primers
 
-### Zeroing the Instrument
+### Primer 01 — Zeroing the Instrument
 
 *A primer on null-control batteries for software-based measurement*
 
