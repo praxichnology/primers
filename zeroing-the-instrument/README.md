@@ -29,7 +29,7 @@ Python is not required to read the PDF.
 
 ## Citation and archived editions
 
-Loh, C. S., & Sheng, Y. (2026). *Zeroing the instrument: A primer on null-control batteries for software-based measurement* (Praxichnology Primer 01). Zenodo. https://doi.org/10.5281/zenodo.20371003
+Loh, C. S., & Sheng, Y. (2026). *Zeroing the instrument: A primer on null-control batteries for software-based measurement* (Praxichnology Teaching Resource, Primer 01). Zenodo. https://doi.org/10.5281/zenodo.20371003
 
 [Zenodo record — latest published edition](https://doi.org/10.5281/zenodo.20371003)
 
