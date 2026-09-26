@@ -9,9 +9,9 @@ included where appropriate.
 
 ## Available primers
 
-### Primer 01 — Zeroing the Instrument
+### Primer 01 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20371003.svg)](https://doi.org/10.5281/zenodo.20371003)
 
-*A primer on null-control batteries for software-based measurement*
+## 1. Zeroing the instrument — _A primer on null-control batteries for software-based measurement_
 
 **Christian S. Loh, Ph.D., and Yanyan Sheng, Ph.D.**
 
